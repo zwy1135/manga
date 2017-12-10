@@ -97,3 +97,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# cfg and data
+/config
+/data
